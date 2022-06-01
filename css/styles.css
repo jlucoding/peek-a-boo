@@ -2,6 +2,10 @@
   display: none;
 }
 
+#text-showing {
+  display: none;
+}
+
 .clickable{
   cursor: pointer;
   color: #0088cc;
