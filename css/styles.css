@@ -1,3 +1,11 @@
+.dark-background {
+  background-color: black;
+  }
+
+.light-background {
+  background-color: white;
+  }
+
 #walrus-showing {
   display: none;
 }
@@ -18,3 +26,7 @@
 img {
   max-width: 70%;
 }
+
+
+
+
