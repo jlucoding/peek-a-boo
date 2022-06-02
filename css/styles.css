@@ -1,9 +1,16 @@
+body {
+  background-color: aliceblue;
+  color: rgba(0, 0, 0, 0.842);
+  }
+
 .dark-background {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.842);
+  color: aliceblue;
   }
 
 .light-background {
-  background-color: white;
+  background-color: aliceblue;
+  color: rgba(0, 0, 0, 0.842);
   }
 
 #walrus-showing {
