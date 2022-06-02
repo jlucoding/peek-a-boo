@@ -13,6 +13,10 @@ body {
   color: rgba(0, 0, 0, 0.842);
   }
 
+button#light {
+  display: none;
+}
+
 #walrus-showing {
   display: none;
 }
